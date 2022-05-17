@@ -15,20 +15,14 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://unity.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/32/5969/5969294.png"/> </a>
+    <a href="https://unity.com/" target="_blank"> <img src="https://raw.githubusercontent.com/YuvRaj-at-Unity/ReadYuvraj/main/Unity.svg" width="48" height="48"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/YuvRaj-at-Unity/ReadYuvraj/main/C%235.svg" alt="C#" width="48" height="48"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/32/5968/5968520.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.adobe.com/products/illustrator/free-trial-download.html" target="_blank"> <img src="https://cdn-icons.flaticon.com/png/32/5611/premium/5611037.png?token=exp=1652704476~hmac=8379e8df94af807b9195eefa469034f2"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/YuvRaj-at-Unity/ReadYuvraj/main/Python.svg" width="48" height="48"/> </a> 
+    <a style="padding-right:8px;" href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://raw.githubusercontent.com/YuvRaj-at-Unity/ReadYuvraj/main/Photoshop.svg" width="48" height="48"/> </a> 
+    <a style="padding-right:8px;" href="https://www.adobe.com/products/illustrator/free-trial-download.html" target="_blank"> <img src="https://raw.githubusercontent.com/YuvRaj-at-Unity/ReadYuvraj/main/Illustrator.svg" width="48" height="48"/> </a>
+    
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
