@@ -29,7 +29,7 @@
 <br/>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="90px">
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="900px">
     <a href="https://github.com/Yuvraj-at-Unity/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yuvraj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YuvRaj-at-Unity&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
