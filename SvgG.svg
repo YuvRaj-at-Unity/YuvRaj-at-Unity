@@ -1,1 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 800 400" width="800px" height="400px" direction="ltr">
 
+    <style>
+
+        @keyframes currstreak {
+
+            0% { font-size: 3px; opacity: 0.2; }
+
+            80% { font-size: 34px; opacity: 1; }
+
+            100% { font-size: 28px; opacity: 1; }
+
+        }
+
+        @keyframes fadein {
+
+            0% { opacity: 0; }
+
+            100% { opacity: 1; }
+
+        }
+
+    </style>
+
+    <defs>
+
+        <clipPath id="outer_rectangle">
+
+            <rect width="800" height="400" rx="4.5"/>
+
+        </clipPath>
+
+        
+
+    </defs>
+
+    <g clip-path="url(#outer_rectangle)">
+
+        <g style="isolation:isolate">
+
+            <rect stroke="#0000" fill="#000000" rx="4.5" x="0.5" y="0.5" width="800" height="400" style="background-image:url('giphy.gif'); background-repeat:repeat; "/>
+
+        </g>
+
+        <g style="isolation:isolate">
+
+            <!-- Total Contributions Big Number -->
+
+            <g transform="translate(100,28)">
+
+                <text x="85.5" y="32" stroke-width="0" text-anchor="middle" style="font-family:Segoe UI, Ubuntu, sans-serif;font-weight:700;font-size:28px;font-style:normal;fill:#fff;stroke:none; opacity: 0; animation: fadein 0.5s linear forwards 0.6s;">
+
+                    Hi, My Name Is Yuvraj
+
+                </text>
+
+            </g>
+
+        </g>
+
+        <g style="isolation:isolate">
+
+
+
+        </g>
+
+        <g style="isolation:isolate">
+
+            
+
+        </g>
+
+    </g>
+
+</svg>
