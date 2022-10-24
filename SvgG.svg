@@ -29,8 +29,12 @@
             <rect width="800" height="400" rx="4.5"/>
 
         </clipPath>
-
         
+           
+        <linearGradient id="MyGradient">
+          <stop offset="5%" stop-color="#F60" />
+          <stop offset="95%" stop-color="#FF6" />
+        </linearGradient>
 
     </defs>
 
@@ -71,11 +75,6 @@
         </g>
 
     </g>
-     <defs>
-        <linearGradient id="MyGradient">
-          <stop offset="5%" stop-color="#F60" />
-          <stop offset="95%" stop-color="#FF6" />
-        </linearGradient>
-      </defs>
+
 
 </svg>
