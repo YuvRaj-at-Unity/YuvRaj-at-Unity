@@ -1,7 +1,5 @@
 <svg>
-<html lang="en">
-<head>
-    <title>Aurora UI Gradient</title>
+
     <style>
         *,
 *:before,
@@ -70,8 +68,8 @@
     width: 100%;
     backdrop-filter: blur(80px);
 }
-    </style>
-</head>
+ </style>
+
 <body>
     <div class="container">
         <div></div>
