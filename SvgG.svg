@@ -38,7 +38,7 @@
 
         <g style="isolation:isolate">
 
-            <rect stroke="#0000" fill="#000000" rx="4.5" x="0.5" y="0.5" width="800" height="400" style="background-image:url('giphy.gif'); background-repeat:repeat; "/>
+            <rect stroke="#0000" fill=url(#MyGradient); rx="4.5" x="0.5" y="0.5" width="800" height="400" style="background-image:url('giphy.gif'); background-repeat:repeat; "/>
 
         </g>
 
@@ -71,5 +71,11 @@
         </g>
 
     </g>
+     <defs>
+        <linearGradient id="MyGradient">
+          <stop offset="5%" stop-color="#F60" />
+          <stop offset="95%" stop-color="#FF6" />
+        </linearGradient>
+      </defs>
 
 </svg>
