@@ -95,7 +95,7 @@
         }
 
         .card:hover {
-
+            fill:blue;
             
 
             stroke-width:3;
