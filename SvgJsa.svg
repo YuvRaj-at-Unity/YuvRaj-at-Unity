@@ -8,24 +8,7 @@
         
 
     </g>
-    <script>
-    var item = document.getElementById("card");
-    item.addEventListener("mouseover", func, false);
-    item.addEventListener("mouseout", func1, false);
-
-    function func()
-    {  // not needed since item is already global, 
-      // I am assuming this is here just because it's sample code?
-      // var item = document.getElementById("button"); 
-      item.setAttribute("style", "fill:blue;")
-    }
-
-    function func1()
-    {  
-      item.setAttribute("style", "fill:Black;")
-    }
     
-    </script>
   
 
     <style>
@@ -336,6 +319,24 @@
 
 
     </g>
+  <script>
+    var item = document.getElementById("card");
+    item.addEventListener("mouseover", func, false);
+    item.addEventListener("mouseout", func1, false);
+
+    function func()
+    {  // not needed since item is already global, 
+      // I am assuming this is here just because it's sample code?
+      // var item = document.getElementById("button"); 
+      item.setAttribute("style", "fill:blue;")
+    }
+
+    function func1()
+    {  
+      item.setAttribute("style", "fill:Black;")
+    }
+    
+    </script>
 
 
 
