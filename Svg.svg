@@ -1,1 +1,15 @@
-<svg id="e4H1JpOlNdi1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 400" shape-rendering="geometricPrecision" text-rendering="geometricPrecision"><defs><filter id="e4H1JpOlNdi4-filter" x="-150%" width="400%" y="-150%" height="400%"><feGaussianBlur id="e4H1JpOlNdi4-filter-blur-0" stdDeviation="40,40" result="result"/></filter><filter id="e4H1JpOlNdi5-filter" x="-150%" width="400%" y="-150%" height="400%"><feGaussianBlur id="e4H1JpOlNdi5-filter-blur-0" stdDeviation="40,40" result="result"/></filter></defs><rect width="800" height="400" rx="0" ry="0" fill="#070707" stroke-width="0"/><g transform="matrix(.999873 0.015925-.015925 0.999873-19.445447-6.189352)"><ellipse rx="47.611639" ry="46.055703" transform="matrix(2.878519 0 0 2.878519 86.01631 65.971684)" filter="url(#e4H1JpOlNdi4-filter)" fill="#032864" stroke-width="0"/><ellipse rx="47.611639" ry="46.055703" transform="matrix(-3.218598 0 0-3.218598 755.375759 340.438775)" filter="url(#e4H1JpOlNdi5-filter)" fill="#421d47" stroke-width="0"/></g></svg>
+<svg id="e4H1JpOlNdi1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 400" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+  <defs>
+    <filter id="e4H1JpOlNdi4-filter" x="-150%" width="400%" y="-150%" height="400%">
+      <feGaussianBlur id="e4H1JpOlNdi4-filter-blur-0" stdDeviation="40" result="result" />
+    </filter>
+    <filter id="e4H1JpOlNdi5-filter" x="-150%" width="400%" y="-150%" height="400%">
+      <feGaussianBlur id="e4H1JpOlNdi5-filter-blur-0" stdDeviation="20" result="result" />
+    </filter>
+  </defs>
+  <rect width="800" height="400" rx="0" ry="0" fill="#070707" stroke-width="0" />
+  <g transform="matrix(.999873 0.015925-.015925 0.999873-19.445447-6.189352)">
+    <ellipse rx="47.611639" ry="46.055703" transform="matrix(2.878519 0 0 2.878519 86.01631 65.971684)" filter="url(#e4H1JpOlNdi4-filter)" fill="#032864" stroke-width="0" />
+    <ellipse rx="47" ry="46" transform="matrix(-3.218598 0 0-3.218598 755.375759 340.438775)" filter="url(#e4H1JpOlNdi5-filter)" fill="#421d47" stroke-width="0" />
+  </g>
+</svg>
