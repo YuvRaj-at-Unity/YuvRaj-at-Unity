@@ -11,6 +11,7 @@
     </g>
 
     <style>
+        
         @keyframes Float {
             50%{
                 transform: translateY(-10px);
@@ -105,14 +106,6 @@
 
         <!--<circle cx="700" cy="400" r="100"  fill="url(#Gradi)"  filter="url(#blur)"/> -->
 
-        
-
-        
-
-        
-
-
-
         <g style="isolation:isolate">
 
 
@@ -136,41 +129,9 @@
                     Yuvraj
 
                 </text>
-
-
-
             </g>
 
-
-
         </g>
-
-
-
-        <g style="isolation:isolate">
-
-
-
-
-
-
-
-        </g>
-
-
-
-        <g style="isolation:isolate"> 7
-
-
-
-            
-
-
-
-        </g>
-
-
-
     </g>
 
 
