@@ -48,10 +48,7 @@
             fill:black;
             stroke-width:3;
         }
-        .card:hover {
-            fill:url(#Gradi);
-            stroke-width:3;
-        }
+        
         
         
     </style>
@@ -101,8 +98,8 @@
         </filter>
 
 
-
         <rect class="card" stroke="var(--border)"  rx="4.5" x="0.5" y="0.5" width="790" height="390" />
+        
 
         <!--<circle cx="700" cy="400" r="100"  fill="url(#Gradi)"  filter="url(#blur)"/> -->
 
@@ -112,11 +109,11 @@
 
             <!-- Total Contributions Big Number -->
 
-
+            
 
             <g transform="translate(100,28)">
 
-                <img src="https://raw.githubusercontent.com/Yuvi-raj-P/Yuvi-raj-P/main/Loading%20Moon.gif" alt="Loading Moon">
+                
 
                 <!--<text x="285.5" y="92" stroke-width="0" text-anchor="middle" style="font-family:Montserrat, sans-serif;font-weight:700;font-size:48px;font-style:normal;fill:#fff;stroke:none; opacity: 100; animation: Float 2s ease infinite">
 
@@ -132,8 +129,9 @@
             </g>
 
         </g>
+        
     </g>
-
+    <image href="https://i.gifer.com/CSO.gif" alt="Loading Moon" width="150" x="285.5" y="152"/>
 
 
 
