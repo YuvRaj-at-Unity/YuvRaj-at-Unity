@@ -11,11 +11,15 @@
     </g>
 
     <style>
-        
+        @import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@800');
         @keyframes Float {
             50%{
                 transform: translateY(-10px);
             }
+        }
+        @keyframes fadeout {
+            100% { opacity: 1; }
+            0% { opacity: 0; }
         }
         @keyframes fadein {
             0% { opacity: 0; }
@@ -98,9 +102,14 @@
         </filter>
 
 
-        <rect class="card" stroke="var(--border)"  rx="4.5" x="0.5" y="0.5" width="790" height="390" />
-        
+        <rect class="card"  rx="4.5" x="0.5" y="0.5" width="790" height="390" />
+        <!--The Boot Animation-->
+        <image href="https://raw.githubusercontent.com/Yuvi-raj-P/Yuvi-raj-P/main/moon-12.gif" alt="Loading Moon" width="150" x="320" y="120"/>
+        <text x="390" y="290" stroke-width="0" text-anchor="middle" style="font-family:Abhaya Libre, sans-serif;font-weight:700;font-size:20px;font-style:normal;fill:#fff; opacity: 0.3; animation: Float 2s ease infinite">
 
+            Loading A Moon For You 
+
+        </text>
         <!--<circle cx="700" cy="400" r="100"  fill="url(#Gradi)"  filter="url(#blur)"/> -->
 
         <g style="isolation:isolate">
@@ -115,24 +124,14 @@
 
                 
 
-                <!--<text x="285.5" y="92" stroke-width="0" text-anchor="middle" style="font-family:Montserrat, sans-serif;font-weight:700;font-size:48px;font-style:normal;fill:#fff;stroke:none; opacity: 100; animation: Float 2s ease infinite">
-
-                    Hi, My Name Is 
-
-                </text>
-
-                <text x="285.5" y="152" stroke-width="0" text-anchor="middle" style="font-family:Montserrat, sans-serif;font-weight:700;font-size:48px;font-style:normal;fill:#fff;stroke:none; opacity: 0; animation: fadein 0.5s linear forwards 0.6s;">
-
-                    Yuvraj
-
-                </text>-->
+                
             </g>
 
         </g>
         
     </g>
-    <image href="https://i.gifer.com/CSO.gif" alt="Loading Moon" width="150" x="285.5" y="152"/>
-
+    
+    
 
 
 
