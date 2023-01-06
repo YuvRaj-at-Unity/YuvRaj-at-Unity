@@ -1,15 +1,180 @@
 <svg id="Screen" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 800 400" width="800px" height="400px" direction="ltr">
-  <defs>
-    <filter id="e4H1JpOlNdi4-filter" x="-150%" width="400%" y="-150%" height="400%">
-      <feGaussianBlur id="e4H1JpOlNdi4-filter-blur-0" stdDeviation="40" result="result" />
-    </filter>
-    <filter id="e4H1JpOlNdi5-filter" x="-150%" width="400%" y="-150%" height="400%">
-      <feGaussianBlur id="e4H1JpOlNdi5-filter-blur-0" stdDeviation="20" result="result" />
-    </filter>
-  </defs>
-  <rect width="800" height="400" rx="0" ry="0" fill="#070707" stroke-width="0" />
-  <g transform="matrix(.999873 0.015925-.015925 0.999873-19.445447-6.189352)">
-    <ellipse rx="47.611639" ry="46.055703" transform="matrix(2.878519 0 0 2.878519 86.01631 65.971684)" filter="url(#e4H1JpOlNdi4-filter)" fill="#032864" stroke-width="0" />
-    <ellipse rx="47" ry="46" transform="matrix(-3.218598 0 0-3.218598 755.375759 340.438775)" filter="url(#e4H1JpOlNdi5-filter)" fill="#421d47" stroke-width="0" />
-  </g>
+
+
+
+    <g style="isolation:isolate">
+
+            
+
+        
+
+    </g>
+
+    <style>
+        @keyframes Float {
+            50%{
+                transform: translateY(-10px);
+            }
+        }
+        @keyframes fadein {
+            0% { opacity: 0; }
+            100% { opacity: 1; }
+        }
+        #cursor {
+            position: fixed;
+            pointer-events: none;
+            transform: none;
+            transform-origin: center center;
+            transition: all 300ms ease-out;
+            padding: 2px;
+        }
+        .cursor-circle {
+          stroke-dasharray: 500;
+          stroke-dashoffset: 1000;
+          transition: stroke-dashoffset 5s ease-out;
+        }
+        .cursor-circle.animate {
+          stroke-dashoffset: 0;
+          /* stroke: white; */
+        }
+        :root {
+          --border: rgb(3, 169, 244);
+          --g1: rgb(98, 0, 234);
+          --g2: rgb(236, 64, 122);
+          --g3: rgb(253, 216, 53);
+        }
+        .card {
+            fill:black;
+            stroke-width:3;
+        }
+        .card:hover {
+            fill:url(#Gradi);
+            stroke-width:3;
+        }
+        
+        
+    </style>
+
+    
+
+
+
+    <defs>
+
+
+
+        <clipPath id="outer_rectangle">
+
+
+
+            <rect width="800" height="400" rx="4.5"/>
+
+
+
+        </clipPath>
+
+        
+
+           
+
+        <linearGradient id="Gradi">
+
+          <stop offset="5%" stop-color="#5a6a8a" />
+
+          <stop offset="95%" stop-color="#4c4088" />
+
+        </linearGradient>
+
+
+
+    </defs>
+
+
+
+    <g clip-path="url(#outer_rectangle)">
+
+        <filter id="blur">
+
+            <feGaussianBlur stdDeviation="15" />
+
+        </filter>
+
+
+
+        <rect class="card" stroke="var(--border)"  rx="4.5" x="0.5" y="0.5" width="790" height="390" />
+
+        <!--<circle cx="700" cy="400" r="100"  fill="url(#Gradi)"  filter="url(#blur)"/> -->
+
+        
+
+        
+
+        
+
+
+
+        <g style="isolation:isolate">
+
+
+
+            <!-- Total Contributions Big Number -->
+
+
+
+            <g transform="translate(100,28)">
+
+
+
+                <text x="285.5" y="92" stroke-width="0" text-anchor="middle" style="font-family:Montserrat, sans-serif;font-weight:700;font-size:48px;font-style:normal;fill:#fff;stroke:none; opacity: 100; animation: Float 2s ease infinite">
+
+                    Hi, My Name Is 
+
+                </text>
+
+                <text x="285.5" y="152" stroke-width="0" text-anchor="middle" style="font-family:Montserrat, sans-serif;font-weight:700;font-size:48px;font-style:normal;fill:#fff;stroke:none; opacity: 0; animation: fadein 0.5s linear forwards 0.6s;">
+
+                    Yuvraj
+
+                </text>
+
+
+
+            </g>
+
+
+
+        </g>
+
+
+
+        <g style="isolation:isolate">
+
+
+
+
+
+
+
+        </g>
+
+
+
+        <g style="isolation:isolate"> 7
+
+
+
+            
+
+
+
+        </g>
+
+
+
+    </g>
+
+
+
+
+
 </svg>
