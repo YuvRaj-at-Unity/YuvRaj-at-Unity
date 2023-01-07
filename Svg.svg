@@ -1,5 +1,6 @@
 <svg id="Screen" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 800 400" width="800px" height="400px" direction="ltr">
-    <meta http-equiv="Content-Security-Policy" content="default-src 'none'; connect-src 'self';font-src 'self'; img-src 'self' data: https:; style-src 'self' ; script-src 'self'"></meta>
+    <meta http-equiv="Content-Security-Policy" content="default-src 'none'; connect-src 'self';font-src 'self'; img-src 'self' data: https: https://raw.githubusercontent.com; style-src 'self' ; script-src 'self'"></meta>
+
 
 
     <g style="isolation:isolate">
