@@ -11,7 +11,7 @@
     </g>
 
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@800');
+   
         @keyframes Float {
             50%{
                 transform: translateY(-10px);
