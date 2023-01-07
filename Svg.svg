@@ -104,7 +104,7 @@
 
         <rect class="card"  rx="4.5" x="0.5" y="0.5" width="790" height="390" />
         <!--The Boot Animation-->
-        <iframe src="https://giphy.com/embed/3oriO4kSYahYQr6e1a" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoon-good-strut-3oriO4kSYahYQr6e1a">via GIPHY</a></p>
+        <iframe src="https://giphy.com/embed/3oriO4kSYahYQr6e1a" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
         <text x="390" y="290" stroke-width="0" text-anchor="middle" style="font-family:Abhaya Libre, sans-serif;font-weight:700;font-size:20px;font-style:normal;fill:#fff; opacity: 0.3; animation: Float 2s ease infinite">
 
             Loading A Moon For You 
