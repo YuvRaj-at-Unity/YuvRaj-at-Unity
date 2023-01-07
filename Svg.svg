@@ -1,5 +1,5 @@
 <svg id="Screen" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 800 400" width="800px" height="400px" direction="ltr">
-
+    <meta http-equiv="Content-Security-Policy" content="default-src 'none'; connect-src 'self';font-src 'self'; img-src 'self' data: https:; style-src 'self' ; script-src 'self'">
 
 
     <g style="isolation:isolate">
@@ -104,7 +104,7 @@
 
         <rect class="card"  rx="4.5" x="0.5" y="0.5" width="790" height="390" />
         <!--The Boot Animation-->
-        <meta http-equiv="Content-Security-Policy" content="default-src 'none'; connect-src 'self';font-src 'self'; img-src 'self' data: https:; style-src 'self' ; script-src 'self'">
+        
         <image href="(moon-12.gif)" alt="Loading Moon" width="150" height="150" x="320" y="120"/>
         <text x="390" y="290" stroke-width="0" text-anchor="middle" style="font-family:Abhaya Libre, sans-serif;font-weight:700;font-size:20px;font-style:normal;fill:#fff; opacity: 0.3; animation: Float 2s ease infinite">
 
