@@ -1,7 +1,7 @@
 
 <p align="center">
     <a href="https://github.com/Yuvi-raj-P">
-        <img title="Hi You" alt="Yuvraj's streak" src="https://raw.githubusercontent.com/YuvRaj-at-Unity/YuvRaj-at-Unity/main/SvgG.svg"/>
+        <img src="https://yuvi-raj-p.github.io/Yuvi-raj-P/Svg.svg" alt="Hi You" title="Hello">
     </a>
 </p>
 
