@@ -106,7 +106,7 @@
         </filter>
 
 
-        <rect class="card"  rx="4.5" x="0.5" y="0.5" width="790" height="390" />
+        <rect class="card"  rx="4.5" x="0.5" y="0.5" width="900" height="400" />
         <!--The Boot Animation-->
         <g x="390" y="240">
        
