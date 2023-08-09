@@ -54,7 +54,7 @@
         }
         .card {
             fill:black;
-            stroke-width:3;
+            stroke-width:0;
         }
        
        
